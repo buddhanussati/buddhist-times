@@ -2,6 +2,9 @@
 
 A lightweight, practitioner-focused web tool designed to assist Buddhist monastics and lay practitioners in tracking essential observance times, specifically Solar Noon and Uposatha days.
 
+<img width="1033" height="915" alt="_E__loicuaducphat_congcu_buddhist-times html" src="https://github.com/user-attachments/assets/73db1ba8-17dc-455e-b963-bc92fb344040" />
+
+
 ## 🌟 Key Features
 
 ### ☀️ Solar Noon & Meal Timer
@@ -44,5 +47,6 @@ Simply open the `index.html` file in any modern web browser.
 3. The app will store your last selected location in the browser's local storage for future visits.
 
 ---
+
 
 *May this tool be of benefit to your practice.* 🙏
